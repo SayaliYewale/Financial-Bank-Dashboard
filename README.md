@@ -10,6 +10,8 @@ This project presents an interactive and insightful Power BI dashboard designed 
 - `Customers.csv`  
 - `Branches.csv`  
 - `Loans.csv`
+- Accounts.csv
+- Transcation.csv
 
 **Use Cases**:
 - Targeted marketing campaigns based on customer segments.
